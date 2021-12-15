@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Uber</string>
+    <string name="Im_a_driver_BUTTON">I\'m a Driver</string>
+    <string name="Im_a_customer_BUTTON">I\'m a Customer</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="driver">DRIVER</string>
+    <string name="customer">CUSTOMER</string>
+</resources>
